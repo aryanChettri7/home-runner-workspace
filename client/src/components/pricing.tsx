@@ -63,13 +63,13 @@ export default function Pricing() {
                     <p className="text-gray-600 mb-4">For small-to-mid-sized NGOs</p>
                     
                     <div className="grid grid-cols-2 gap-4 mb-4">
-                      <div className="text-center p-3 bg-gray-50 rounded-lg">
-                        <div className="text-2xl font-bold text-primary">$250/month</div>
-                        <div className="text-sm text-gray-600">Monthly billing</div>
+                      <div className="text-center p-4 bg-gray-50 rounded-lg flex flex-col justify-center min-h-[80px]">
+                        <div className="text-xl font-bold text-primary">$250/month</div>
+                        <div className="text-sm text-gray-600 mt-1">Monthly billing</div>
                       </div>
-                      <div className="text-center p-3 bg-primary/10 rounded-lg border-2 border-primary">
-                        <div className="text-2xl font-bold text-primary">$2,500/year</div>
-                        <div className="text-sm text-gray-600">Save 2 months</div>
+                      <div className="text-center p-4 bg-primary/10 rounded-lg border-2 border-primary flex flex-col justify-center min-h-[80px]">
+                        <div className="text-xl font-bold text-primary">$2,500/year</div>
+                        <div className="text-sm text-gray-600 mt-1">Save 2 months</div>
                       </div>
                     </div>
                     
