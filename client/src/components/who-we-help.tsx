@@ -8,21 +8,21 @@ export default function WhoWeHelp() {
       icon: Heart,
       title: "Individual Donors",
       quote: "80% say they'd give more if they could see the results.",
-      description: "SDtec delivers the transparency they're asking for.",
+      description: "SDtec delivers real proof and evidence of who they helped and how.",
       color: "text-red-500"
     },
     {
       icon: Handshake,
       title: "Charities & NGOs",
       quote: "Over 10 million NGOs worldwide struggle with donor trust.",
-      description: "We make reporting effortless and credible.",
+      description: "We provide verified evidence and measure long-term impact effortlessly.",
       color: "text-blue-500"
     },
     {
       icon: Building,
       title: "Corporate CSR Programs",
       quote: "$21B donated annually, with rising pressure for ESG accountability.",
-      description: "SDtec ensures your impact is measured, reported, and trusted.",
+      description: "SDtec provides verified evidence of impact with measurable, long-term results.",
       color: "text-green-500"
     }
   ];

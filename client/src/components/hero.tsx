@@ -43,9 +43,9 @@ export default function Hero() {
             transition={{ duration: 0.6, delay: 0.6 }}
             className="text-lg text-white/80 mb-12 max-w-3xl mx-auto"
           >
-            Track outcomes as they happen with our user-friendly mobile app. Get instant, visual 
-            impact reports that integrate seamlessly with nonprofit systems. See the proof of 
-            where every dollar goes.
+            We don't just tell you where donations went. We show real proof, in real time with 
+            evidence letting you know who you helped, how you helped, and measuring long-term 
+            impact with verified results.
           </motion.p>
           
           <motion.div

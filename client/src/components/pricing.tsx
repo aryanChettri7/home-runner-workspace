@@ -5,17 +5,17 @@ import { Check, Building, Heart, Coins } from "lucide-react";
 
 export default function Pricing() {
   const charityFeatures = [
-    "Automated impact tracking",
-    "Branded donor dashboards",
-    "Compliance-ready reports",
-    "Mobile access for field teams"
+    "Real-time evidence collection",
+    "Verified impact documentation",
+    "Long-term outcome measurement",
+    "Beneficiary connection tools"
   ];
 
   const donorFeatures = [
-    "Personalized impact feed",
-    "Real-time photo & video updates",
-    "Chat with beneficiaries",
-    "Donation history dashboard"
+    "See who you helped with proof",
+    "Evidence of how you helped",
+    "Long-term impact tracking",
+    "Direct beneficiary connections"
   ];
 
   return (

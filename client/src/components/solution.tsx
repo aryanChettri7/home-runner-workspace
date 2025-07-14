@@ -5,26 +5,26 @@ export default function Solution() {
   const solutions = [
     {
       icon: TrendingUp,
-      title: "Track outcomes as they happen",
-      description: "Real-time impact monitoring",
+      title: "Real proof with evidence",
+      description: "Verified impact documentation",
       color: "text-secondary"
     },
     {
       icon: Smartphone,
-      title: "User-friendly mobile app",
-      description: "Access anywhere, anytime",
+      title: "Know who you helped",
+      description: "Connect with real beneficiaries",
       color: "text-secondary"
     },
     {
       icon: Eye,
-      title: "Instant, visual impact reports",
-      description: "See results immediately",
+      title: "See how you helped",
+      description: "Detailed impact stories",
       color: "text-secondary"
     },
     {
       icon: Zap,
-      title: "Easy integration",
-      description: "Works with existing systems",
+      title: "Long-term impact measurement",
+      description: "Track outcomes over time",
       color: "text-secondary"
     }
   ];
@@ -48,9 +48,10 @@ export default function Solution() {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-xl text-gray-600 max-w-4xl mx-auto"
           >
-            <span className="font-bold text-secondary">SDtec</span> gives donors, charities, and 
-            corporate funders <span className="font-bold">real-time visibility</span> into how every 
-            dollar is used on the ground, where it matters.
+            <span className="font-bold text-secondary">SDtec</span> provides donors, charities, and 
+            corporate funders with <span className="font-bold">real proof and evidence</span> of impact, 
+            showing exactly who you helped, how you helped them, and measuring long-term outcomes with 
+            verified results.
           </motion.p>
         </div>
         
@@ -80,7 +81,7 @@ export default function Solution() {
         >
           <p className="text-xl text-gray-700">
             Whether it's feeding children, paying school fees, or building wells
-            <span className="font-bold text-secondary"> you'll see the proof.</span>
+            <span className="font-bold text-secondary"> you'll see real evidence of your impact with verified, long-term results.</span>
           </p>
         </motion.div>
       </div>

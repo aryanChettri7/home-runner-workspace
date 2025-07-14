@@ -6,15 +6,15 @@ export default function CTA() {
   const features = [
     {
       icon: Search,
-      title: "Know what your donation really does"
+      title: "See real proof of who you helped"
     },
     {
       icon: Users,
-      title: "Support causes with verified outcomes"
+      title: "Get verified evidence of how you helped"
     },
     {
       icon: Smartphone,
-      title: "Download the app and make your impact visible"
+      title: "Track long-term impact with real results"
     }
   ];
 
