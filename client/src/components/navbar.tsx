@@ -36,7 +36,7 @@ export default function Navbar() {
     <nav className={`fixed top-0 w-full z-50 transition-all duration-300 ${
       isScrolled ? "bg-white/95 backdrop-blur-nav border-b border-gray-100" : "bg-transparent"
     }`}>
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 bg-[#f2e9e9fc]">
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <img src={sdtecLogo} alt="SDtec Logo" className="h-12 w-auto" />
@@ -73,7 +73,6 @@ export default function Navbar() {
           </div>
         </div>
       </div>
-
       {/* Mobile Menu */}
       <AnimatePresence>
         {isMobileMenuOpen && (
