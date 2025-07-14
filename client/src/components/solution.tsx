@@ -50,7 +50,7 @@ export default function Solution() {
           >
             <span className="font-bold text-secondary">SDtec</span> gives donors, charities, and 
             corporate funders <span className="font-bold">real-time visibility</span> into how every 
-            dollar is used—on the ground, where it matters.
+            dollar is used on the ground, where it matters.
           </motion.p>
         </div>
         
@@ -79,7 +79,7 @@ export default function Solution() {
           className="text-center mt-12"
         >
           <p className="text-xl text-gray-700">
-            Whether it's feeding children, paying school fees, or building wells—
+            Whether it's feeding children, paying school fees, or building wells
             <span className="font-bold text-secondary"> you'll see the proof.</span>
           </p>
         </motion.div>

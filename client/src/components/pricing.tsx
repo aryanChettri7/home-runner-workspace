@@ -133,7 +133,7 @@ export default function Pricing() {
           className="text-center mt-12"
         >
           <p className="text-lg text-gray-700">
-            All data is securely stored and transparently managed—so you never have to wonder where your donation went.
+            All data is securely stored and transparently managed so you never have to wonder where your donation went.
           </p>
         </motion.div>
       </div>

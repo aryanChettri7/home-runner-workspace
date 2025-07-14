@@ -15,7 +15,7 @@ export default function WhoWeHelp() {
       icon: Handshake,
       title: "Charities & NGOs",
       quote: "Over 10 million NGOs worldwide struggle with donor trust.",
-      description: "We make reporting effortless—and credible.",
+      description: "We make reporting effortless and credible.",
       color: "text-blue-500"
     },
     {

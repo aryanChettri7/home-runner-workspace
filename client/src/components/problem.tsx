@@ -49,7 +49,7 @@ export default function Problem() {
             className="text-xl text-gray-600 max-w-4xl mx-auto"
           >
             Every year, over <span className="font-bold text-destructive">$800 billion</span> flows 
-            into charities globally. Yet, most donors never see how—or if—their money truly helps.
+            into charities globally. Yet, most donors never see how or if their money truly helps.
           </motion.p>
         </div>
         

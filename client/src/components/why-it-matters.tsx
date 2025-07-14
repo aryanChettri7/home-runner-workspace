@@ -5,7 +5,7 @@ export default function WhyItMatters() {
   const points = [
     {
       icon: Smartphone,
-      title: "Digital donations are rising—but donor confidence is falling.",
+      title: "Digital donations are rising but donor confidence is falling.",
       color: "text-gray-700"
     },
     {
@@ -15,7 +15,7 @@ export default function WhyItMatters() {
     },
     {
       icon: CheckCircle,
-      title: "Transparency isn't a bonus anymore—it's a requirement.",
+      title: "Transparency isn't a bonus anymore it's a requirement.",
       color: "text-secondary"
     }
   ];
