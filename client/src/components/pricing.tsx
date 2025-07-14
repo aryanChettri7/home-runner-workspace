@@ -29,7 +29,7 @@ export default function Pricing() {
             className="text-4xl font-bold text-gray-900 mb-4 flex items-center justify-center"
           >
             <Coins className="text-accent mr-3 w-10 h-10" />
-            Revenue Model
+            Our Pricing
           </motion.h2>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
