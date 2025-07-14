@@ -66,7 +66,7 @@ export default function Hero() {
             <Button 
               size="lg"
               variant="outline"
-              className="border-2 border-white text-white hover:bg-white/10 font-semibold text-lg px-8 py-4"
+              className="border-2 border-white text-[#192e4f] hover:bg-white/10 font-semibold text-lg px-8 py-4"
             >
               <Download className="w-5 h-5 mr-2" />
               Download App
