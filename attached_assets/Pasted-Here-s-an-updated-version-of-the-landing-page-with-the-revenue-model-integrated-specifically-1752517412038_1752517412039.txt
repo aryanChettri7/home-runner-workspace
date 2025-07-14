@@ -1,0 +1,111 @@
+Here’s an updated version of the **landing page** with the **revenue model integrated**—specifically highlighting **subscription-based plans** for **Charities & NGOs** and **Individual Donors** using mobile access.
+
+---
+
+## 🌍 SDtec — *Restoring Trust in Charitable Giving*
+
+### Real-Time Impact. Verified Results.
+
+---
+
+### ❌ The Problem: "Where Did My Donation Go?"
+
+Every year, over **\$800 billion** flows into charities globally. Yet, most donors never see how—or if—their money truly helps.
+
+* 😟 **Donors are left in the dark.**
+* 🏢 **Nonprofits struggle to prove results.**
+* 💼 **Companies face scrutiny over unverified impact.**
+* 📉 **A trust gap is widening—and generosity is declining.**
+
+It’s time to fix that.
+
+---
+
+### ✅ The Solution: Real-Time Proof of Impact
+
+**SDtec** gives donors, charities, and corporate funders **real-time visibility** into how every dollar is used—on the ground, where it matters.
+
+💡 **Track outcomes as they happen**
+📱 **User-friendly mobile app**
+📊 **Instant, visual impact reports**
+🧩 **Easily integrates with nonprofit systems**
+
+Whether it's feeding children, paying school fees, or building wells—**you’ll see the proof.**
+
+---
+
+### 💼 Revenue Model
+
+#### 🏛️ Charities & NGOs – Subscription Access
+
+* **Standard Plan:** \$2,500/year for small-to-mid-sized NGOs
+* **Enterprise Plan:** Custom pricing for larger charities with full analytics and verification tools
+* ✅ Benefits:
+
+  * Automated impact tracking
+  * Branded donor dashboards
+  * Compliance-ready reports
+  * Mobile access for field teams
+
+#### 🙋 Individual Donors – Mobile Premium
+
+* **Free Plan:** Browse campaigns, make donations, receive basic updates
+* **Impact+ Plan:** \$10/month or \$99/year
+* ✅ Features:
+
+  * Personalized impact feed
+  * Real-time photo & video updates
+  * Chat with beneficiaries or case managers
+  * Donation history dashboard
+
+> 🔒 All data is securely stored and transparently managed—so you never have to wonder where your donation went.
+
+---
+
+### 👥 Who We Help
+
+#### 🎯 Individual Donors
+
+> 80% say they’d give more if they could see the results.
+> SDtec delivers the transparency they’re asking for.
+
+#### 🤝 Charities & NGOs
+
+> Over 10 million NGOs worldwide struggle with donor trust.
+> We make reporting effortless—and credible.
+
+#### 🏢 Corporate CSR Programs
+
+> \$21B donated annually, with rising pressure for ESG accountability.
+> SDtec ensures your impact is *measured, reported, and trusted.*
+
+---
+
+### 📈 Why It Matters
+
+* Digital donations are rising—but donor confidence is falling.
+* Fraud and unverifiable claims are hurting the sector.
+* Transparency isn’t a bonus anymore—it’s a requirement.
+
+**SDtec bridges this gap**, bringing clarity to giving and confidence to action.
+
+---
+
+### 🚀 Try SDtec Today
+
+🔍 **Know what your donation really does**
+👥 **Support causes with verified outcomes**
+📲 **Download the app and make your impact visible**
+
+👉 [**Get Started at sdtec.life**](https://www.sdtec.life)
+
+---
+
+#### Have questions?
+
+📧 [info@sdtec.life](mailto:info@sdtec.life)
+📞 +91 90450 06859
+
+---
+
+Would you like this as a webpage prototype (HTML, React, or Figma)? Or adapted into a pitch deck slide or PDF brochure?
