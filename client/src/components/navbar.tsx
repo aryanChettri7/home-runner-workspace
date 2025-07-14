@@ -58,7 +58,7 @@ export default function Navbar() {
           <div className="flex items-center space-x-4">
             <Button 
               className="bg-primary hover:bg-primary/90 text-white"
-              onClick={() => window.open("https://sdtec.life", "_blank")}
+              onClick={() => window.open("https://sdtec.io", "_blank")}
             >
               Get Started
             </Button>

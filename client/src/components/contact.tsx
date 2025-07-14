@@ -24,10 +24,10 @@ export default function Contact() {
             >
               <Mail className="w-6 h-6 text-primary mr-3" />
               <a 
-                href="mailto:info@sdtec.life" 
+                href="mailto:info@sdtec.io" 
                 className="text-xl text-primary hover:text-primary/80 transition-colors"
               >
-                info@sdtec.life
+                info@sdtec.io
               </a>
             </motion.div>
             
