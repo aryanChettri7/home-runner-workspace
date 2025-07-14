@@ -60,8 +60,19 @@ export default function Pricing() {
                 <Card className="bg-white">
                   <CardContent className="p-6">
                     <h4 className="text-lg font-semibold text-gray-900 mb-2">Standard Plan</h4>
-                    <div className="text-3xl font-bold text-primary mb-4">$2,500/year</div>
                     <p className="text-gray-600 mb-4">For small-to-mid-sized NGOs</p>
+                    
+                    <div className="grid grid-cols-2 gap-4 mb-4">
+                      <div className="text-center p-3 bg-gray-50 rounded-lg">
+                        <div className="text-2xl font-bold text-primary">$250/month</div>
+                        <div className="text-sm text-gray-600">Monthly billing</div>
+                      </div>
+                      <div className="text-center p-3 bg-primary/10 rounded-lg border-2 border-primary">
+                        <div className="text-2xl font-bold text-primary">$2,500/year</div>
+                        <div className="text-sm text-gray-600">Save 2 months</div>
+                      </div>
+                    </div>
+                    
                     <ul className="space-y-2 text-sm">
                       {charityFeatures.map((feature, index) => (
                         <li key={index} className="flex items-center">
