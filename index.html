@@ -164,10 +164,9 @@
             
             window.addEventListener('scroll', () => {
                 if (window.scrollY > 50) {
-                    navbar.classList.add('bg-white', 'backdrop-blur-nav', 'border-b', 'border-gray-100');
+                    navbar.classList.add('border-b', 'border-gray-100');
                 } else {
-                    navbar.classList.add('bg-white');
-                    navbar.classList.remove('backdrop-blur-nav', 'border-b', 'border-gray-100');
+                    navbar.classList.remove('border-b', 'border-gray-100');
                 }
             });
             
